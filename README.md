@@ -1,2 +1,1 @@
-<<<<<<< HEAD
-This is the README.md file in the git directory.
+This is a README file in the git directory
