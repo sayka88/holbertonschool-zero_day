@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git pull origin main
+=======
+git pull origin master
+>>>>>>> cf831eebefa41d36c018ba968e1b8c2f18a497ab
